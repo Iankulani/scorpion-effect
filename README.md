@@ -4,3 +4,15 @@
 
 
 Scorpion-Effect is an advanced cybersecurity research tool designed for monitoring, detecting, and analyzing network-based cyber threats in real time.
+
+
+## How to clone the repo
+```bash
+git clone https://github.com/Iankulani/scorpion-effect.git
+cd scorpion-effect
+```
+
+ ## How to run
+ ```bash
+python3 scorpion-effect.py
+```
